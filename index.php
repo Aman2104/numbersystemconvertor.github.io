@@ -60,6 +60,7 @@
             else if($floatresultAct>1000){
                 $floatresultAct = $floatresultAct/10000;
             }
+            
             else if($floatresultAct>100){
                 $floatresultAct = $floatresultAct/1000;
             }
